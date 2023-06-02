@@ -1,6 +1,6 @@
 /* Returns the number of interations toward getting Kaprekar's Constant, 6174 */
 
-import java.util.*;
+import java.util.*; 
 
 public class KaprekarConstant{
     public static void main(String[] args){
